@@ -1,7 +1,7 @@
 //COMP229-Assignment1, ELijah Stuwe, 301421199, September 19 2025
 
 import Img1 from "./assets/flymethroughtheroom.png"
-import Img2 from "./assets/foodbutsimple.png"
+import Img2 from "./assets/foodbutsimple.PNG"
 import Img3 from "./assets/comp305lab3.png"
 
 export default function Project() {
